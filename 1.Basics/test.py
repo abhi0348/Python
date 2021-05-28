@@ -1,4 +1,5 @@
 import pandas
+print hello
 
 df = pandas.DataFrame(
     {
